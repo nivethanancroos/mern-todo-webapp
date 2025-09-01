@@ -31,7 +31,3 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** web application to mana
 ```bash
 git clone https://github.com/nivethanancroos/mern-todo-webapp.git
 cd mern-todo-webapp
-
-
-
-
