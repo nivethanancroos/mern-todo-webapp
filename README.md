@@ -34,6 +34,4 @@ cd mern-todo-webapp
 
 
 
-![App Screenshot](https://github.com/user-attachments/assets/68fcb534-ae22-4621-b6b6-56f5302a9009)
-<img width="1645" height="779" alt="image" src="https://github.com/user-attachments/assets/68fcb534-ae22-4621-b6b6-56f5302a9009" />
 
