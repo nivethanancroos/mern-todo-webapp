@@ -3,6 +3,7 @@
 A full-stack **MERN (MongoDB, Express, React, Node.js)** web application to manage tasks and to-do lists efficiently. This app allows users to add, edit, and delete tasks with a simple and intuitive interface.
 
 ---
+![Description of Image](TODOLIST.png)
 
 ## Features
 
